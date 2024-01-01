@@ -112,7 +112,7 @@ header table {
   width: 50%;
 }
 #about {
-  width: 84% !important;
+  width: 50% !important;
   height: 95vh;
   display: flex;
   flex-direction: column;
@@ -411,7 +411,7 @@ button:focus {
   flex-direction: row;
 }
 
-.video-item {
+iframe, .video-item {
   max-width: 300px;
   /* height: 200px; */
   object-fit: cover;

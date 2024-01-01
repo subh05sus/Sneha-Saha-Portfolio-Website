@@ -104,7 +104,7 @@ $(document).ready(function () {
 
 const handleSubmit = (event) => {
   event.preventDefault();
-
+  alert("Your Form has been submitted successfully :D")
   const myForm = event.target;
   const formData = new FormData(myForm);
 

@@ -426,7 +426,7 @@ button:focus {
 
 .photo-grid {
   display: flex;
-  width: 95%;
+  /* width: 95%; */
 
   flex-wrap: wrap;
   /* grid-template-columns: repeat(4, 1fr); */
